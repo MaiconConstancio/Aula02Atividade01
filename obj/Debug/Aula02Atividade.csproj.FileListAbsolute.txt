@@ -7,3 +7,4 @@ C:\Users\maicon.sconstancio\source\repos\Aula02Atividade\Aula02Atividade\obj\Deb
 C:\Users\maicon.sconstancio\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.csproj.CoreCompileInputs.cache
 C:\Users\maicon.sconstancio\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.exe
 C:\Users\maicon.sconstancio\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.pdb
+C:\Users\maicon.sconstancio\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.csproj.AssemblyReference.cache

@@ -24,7 +24,7 @@ namespace Aula02Atividade
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Certo! já já um vendedor entrará em contato!");
         }
 
         private void checkBox3_CheckedChanged(object sender, EventArgs e)
@@ -40,6 +40,36 @@ namespace Aula02Atividade
         private void groupBox2_Enter(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Ótimo, está registrado!");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Certo! já já um vendedor entrará em contato!");
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Certo! já já um vendedor entrará em contato!");
+        }
+
+        private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
+        {
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Atendimento encerrado!");
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Certo! já já um vendedor entrará em contato!");
         }
     }
 }
